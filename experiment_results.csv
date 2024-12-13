@@ -1,0 +1,8 @@
+N,pooling
+32,max
+48,max
+64,max
+32,mean
+48,mean
+64,mean
+64,max
